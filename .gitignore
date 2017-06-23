@@ -1,2 +1,5 @@
 # Tools not needed
 tools
+
+# Output not needed
+projects/**/*.out
